@@ -5,3 +5,5 @@ To view the full interactive version of the notebook go to the following link (i
 https://mybinder.org/v2/gh/el-grudge/01--Introduction-to-DataCamp-Projects/059f49956bc13d6d9a7284a0300cdc8a31d039f5
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/el-grudge/01--Introduction-to-DataCamp-Projects/059f49956bc13d6d9a7284a0300cdc8a31d039f5)
+
+This is a simple introduction to notebooks, and the DataCamp projects. I use matplotlib.pyplot for a simple visualization, and folium for an interactive map.
